@@ -18,7 +18,7 @@ const Footer = () => {
         <div >
         <div class="logo text-2xl text-blue-600 font-bold">
         <span>Care</span><strong>Buddy</strong></div>
-            <p className='w-full md:w-2/3 text-gray-600 leading-6'>Your health, our priority. <br />Stay connected with top doctors through our app</p>
+            <p className='w-full md:w-2/3 text-gray-600 leading-6'>Your health, our priority. <br />Stay connected with top doctors through our app.</p>
         </div>
              {/*----center section---- */}
         <div>
@@ -35,7 +35,7 @@ const Footer = () => {
                 <div>
             <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
             <ul  className='flex flex-col gap-2 text-gray-600'>
-                <li>+234 90 2537 5109</li>
+                <li>+234 902 537 5109</li>
                 <li>carebuddy@info.com</li>
             </ul>
            </div>
@@ -46,7 +46,7 @@ const Footer = () => {
          
     </div>
     <hr />
-    <p className='py-5 text-sm text-center items-center'> Copyright 2025@ carebuddy- All Right Reserved.</p>
+    <p className='py-5 text-sm text-center items-center'> Copyright 2025 @ CareBuddy- All Rights Reserved.</p>
     </div>
   )
 }

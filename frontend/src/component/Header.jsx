@@ -28,7 +28,7 @@ const Header = () => {
       {/* Right side */}
       <div className="md:w-1/2 relative">
         <img
-          className="w-full md:h-[500px] object-cover rounded-lg"
+          className="w-full md:h-[500px] object-none rounded-lg"
           src={assets.header_img}
           alt="Header"
         />
